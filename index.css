@@ -143,7 +143,7 @@
    .hero-image-box {
      height: 80vh;
      max-height: 864px;
-     background-image: url("/Images/Profile.jpg");
+     background-image: url("Profile.jpg");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -450,7 +450,7 @@
    }
    
    .mid_image {
-     background-image: url("/Images/idea.png");
+     background-image: url("idea.png");
      background-position: 50% 50%;
      background-size: cover;
    }
@@ -623,7 +623,7 @@
      height: 640px;
      border-bottom-left-radius: 8px;
      border-bottom-right-radius: 8px;
-     background-image: url("/Images/github.png");
+     background-image: url("github.png");
      background-position: 50% 50%;
      background-size: 1024px;
      background-repeat: repeat;
